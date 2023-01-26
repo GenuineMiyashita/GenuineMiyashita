@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/117591361/214746201-eb857b84-2bc7-4c5b-af91-ffae5491554a.png" />
+  <img width="250px" src="https://github.com/GenuineMiyashita/GenuineMiyashita/blob/main/mainLogo01.png" />
 </p>
-### 
 
-<p align='center'>I'm a developer who has always had a passion for coding, but never fully pursued it until after leaving the military. Now, I'm on a mission to position myself as being exceptional amongst my peers. I'm constantly learning new technologies, frameworks and modern solutions to any and all problems that come my way!</p> 
-
-
+<p align='center'>I'm a developer who has always had a passion for technology and coding, but never fully pursued it until after leaving the military. Now, I'm on a mission to position myself as being exceptional amongst my peers. I'm constantly learning new technologies, frameworks and modern solutions to any and all problems that come my way!</p> 
 
 ## 🧑 About Me:
 * 🧑‍💻 I’m currently working on becoming a Front-end Developer.
