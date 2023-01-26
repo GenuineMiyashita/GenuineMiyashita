@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250px" src="https://github.com/GenuineMiyashita/GenuineMiyashita/blob/main/mainLogo01.png" />
+  <img src="https://github.com/GenuineMiyashita/GenuineMiyashita/blob/main/header.png" />
 </p>
 
 <p align='center'>I'm a developer who has always had a passion for technology and coding, but never fully pursued it until after leaving the military. Now, I'm on a mission to position myself as being exceptional amongst my peers. I'm constantly learning new technologies, frameworks and modern solutions to any and all problems that come my way!</p> 
