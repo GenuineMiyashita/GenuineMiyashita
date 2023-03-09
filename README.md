@@ -5,10 +5,9 @@
 <p align='center'>I'm a developer who has always had a passion for technology and coding, but never fully pursued it until after leaving the military. Now, I'm on a mission to position myself as being exceptional amongst my peers. I'm constantly learning new technologies, frameworks and modern solutions to any and all problems that come my way!</p> 
 
 ## 🧑 About Me:
-* 🧑‍💻 I’m currently working on becoming a Front-end Developer.
+* 🧑‍💻 I’m currently working on becoming a Full-stack Developer.
 
-
-* ✍️ I’m currently learning HTML, CSS, and JavaScript and some additional ones.
+* ✍️ I’m currently learning JavaScript, React, TypeScript, Node.js and MongoDB.
 
 * 🤝 I’m looking to collaborate on open-source projects.
 
@@ -31,8 +30,8 @@
 
 ## ⛰️ Goals & Milestones:
 
-- [ ] Contribute to 5 projects
-- [ ] Create portfolio site
+- [ ] Contribute to five open-source projects
+- [ ] Code and launch portfolio site
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GenuineMiyashita&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)
